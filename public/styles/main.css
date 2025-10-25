@@ -1,0 +1,15 @@
+body{
+    height: 100vh;
+    margin: 0;
+}
+
+
+
+.links{
+    border: 2px solid black;
+    margin: 5px;
+}
+
+img{
+    width: 500px;
+}
